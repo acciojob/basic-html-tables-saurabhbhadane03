@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+table{
+	border-collapse : collapse;
+}
+th , td{
+	border : solid 2px;
+	padding : 5px  5px ;
+	text-align: centre;
+}
